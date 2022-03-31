@@ -1,0 +1,41 @@
+{
+  "students":[
+    {
+      "name":"Mithun Banerjee",
+      "middleName":null,
+      "age":27,
+      "cgpa":3.4,
+      "isRegistered":true,
+      "language":["bengali","English","hindi"],
+      "friendes":[
+        {
+          "name":"Alamin",
+          "age":27
+        },
+        {
+          "name":"Mridul",
+          "age":27
+        }
+      ]
+    },
+    {
+      "name":"Toukir",
+      "middleName":null,
+      "age":27,
+      "cgpa":3.2,
+      "isRegistered":true,
+      "language":["bengali","English","hindi"],
+      "friendes":[
+        {
+          "name":"Alamin",
+          "age":27
+        },
+        {
+          "name":"Mridul",
+          "age":27
+        }
+      ]
+    
+    }
+  ]
+}
